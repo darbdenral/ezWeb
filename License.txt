@@ -1,0 +1,39 @@
+# License Terms
+
+Copyright (c) 2024 Brad Larned
+
+## Definitions
+- "Plugin" refers to the compiled plugin files and associated resources provided in this project.
+- "Project Source" refers to any source code included in this project that is not part of the Plugin.
+- "Executable Tools" refers to any compiled programs or scripts provided as part of this project.
+- "Demo Projects" refers to any example or demonstration projects included in this repository.
+
+## Plugin Usage
+1. The Plugin may be used in both commercial and non-commercial projects without restriction.
+2. Redistribution of the Plugin is permitted only as part of a larger work or project where the Plugin is a component, not the primary product.
+3. Modification of the Plugin itself is not permitted, as source code for the Plugin is not provided.
+4. The Plugin may not be resold, repackaged, or distributed as a standalone product.
+
+## Project Source Usage
+1. The Project Source may be used, modified, and distributed for both commercial and non-commercial purposes.
+2. Users are free to change and adapt the Project Source to their needs.
+
+## Executable Tools and Demo Projects
+1. Any Executable Tools and Demo Projects provided are for demonstration and testing purposes only.
+2. These may be used, modified, and distributed under the same terms as the Project Source.
+3. No warranty or guarantee of functionality is provided for Executable Tools or Demo Projects.
+
+## Attribution
+Attribution is appreciated but not required. If you choose to give attribution when using the Plugin, Project Source, Executable Tools, or Demo Projects in your projects, you may:
+1. Include a credit to the original author in your project documentation or about section.
+2. Provide a link to this GitHub project.
+
+## No Warranty
+The Plugin, Project Source, Executable Tools, and Demo Projects are provided "as is", without warranty of any kind, express or implied. The author assumes no liability for damages or issues arising from the use of any components of this project.
+
+## Additional Terms
+1. The source code for the Plugin files is not provided and remains the exclusive property of the author.
+2. This license does not grant you any rights to use the author's name, logo, or trademarks.
+3. Any attempt to reverse engineer, decompile, or extract the source code of the Plugin is strictly prohibited.
+
+By using any part of this project, you agree to abide by the terms of this license.
