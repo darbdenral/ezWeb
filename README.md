@@ -9,7 +9,7 @@ Configurable hostname, port and root folder. No external files or DLL's required
 
 # Updates
 v1.00
-Updated the sample web page project files.  These changes should make the video cover the entire web page on all displays.  No changes to the plugin, version froze.
++ Updated the sample web page project files.  These changes should make the video cover the entire web page on all displays.  No changes to the plugin, version froze.
 
 v1.00
 + First stable version.
