@@ -8,6 +8,8 @@ You can display HTML and JavaScript web pages and access them using your default
 Configurable hostname, port and root folder. No external files or DLL's required. Download includes the server plug-in and a sample server app for VisualNeoWin.
 
 # Updates
+v1.00
+Updated the sample web page project files.  These changes should make the video cover the entire web page on all displays.  No changes to the plugin, version froze.
 
 v1.00
 + First stable version.
